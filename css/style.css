@@ -1,0 +1,61 @@
+@charset "UTF-8";
+@import url(font-awesome.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&amp;family=Open+Sans+Condensed:wght@300&amp;display=swap');
+
+.teste{
+    background-color:;
+
+}
+
+
+.container {
+    width: 70%;
+    height: 80%;
+    margin: 10%;
+    margin-top: 1%;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    margin: 0%;
+}
+
+body{
+    font-family: "Signika", sans-serif;
+	font-size: 12pt;
+	font-weight: 300;
+	line-height: 1.65;
+}
+
+
+
+h1{
+    margin: 0%;
+    display: inline;
+}
+
+p{
+    display: inline-block;
+    width: 100%;
+    margin-top: 0%;
+}
+
+div{
+
+}
+
+div img{
+    width: 20%;
+    margin: 2%;
+    display: inline;
+    
+}
+
+img{
+    border-bottom: 5px solid #000000;
+    border-right: 5px solid #66111f;
+    
+}
